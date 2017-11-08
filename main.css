@@ -4,7 +4,16 @@ h1{
     color: darkblue;
 }
 
+/*Display div Box */
+div {
+    border: 1px solid darkslateblue;
+    padding: 15px;
+    min-width:150px; 
+    display: inline-block;
+}
+
 /* Display brown color when hovering over div  */
 div:hover{
     color: brown;
+    border: 1px solid brown;
 }
