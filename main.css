@@ -1,0 +1,10 @@
+
+/* Display heading text with darkblue color */
+h1{
+    color: darkblue;
+}
+
+/* Display brown color when hovering over div  */
+div:hover{
+    color: brown;
+}
